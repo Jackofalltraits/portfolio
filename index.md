@@ -1,13 +1,10 @@
 ## Welcome to GitHub Pages
 
 <h1>I am Jack Kower</h1>
-<h1>this a link to my front end engineer portfolio</h1>
+<h1>this a link to my front end web developer portfolio</h1>
 
-You can use the [editor on GitHub](https://github.com/Jackofalltraits/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -15,6 +12,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+<h1>I am Jack Kower</h1>
+<h1>this a link to my front end web developer portfolio</h1>
 ## Header 2
 ### Header 3
 
