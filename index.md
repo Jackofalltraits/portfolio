@@ -13,7 +13,7 @@ Syntax highlighted code block
 
 # Header 1
 <h1>I am Jack Kower</h1>
-<h1>this a link to my front end web developer portfolio</h1>
+<h1>this a link to my front end web engineer portfolio</h1>
 ## Header 2
 ### Header 3
 
